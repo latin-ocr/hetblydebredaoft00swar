@@ -1,0 +1,102 @@
+. Set rhe metering mode (on-camera 01 111 capture window) to partial metering mode
+
+io.
+
+12.
+13,
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+20.
+
+21.
+
+   
+
+(Cameia Manual p. 81) which meters only the central 8<ae 01 [110 03111013 field 01 view,
+avoiding anything outside the gray card. The icon 101 partial metering is a rectangle with an
+open circle inside it.
+
+Set the White Balance to 'Custom' on the camera, or onscreen via capture window‚ (icon is
+two low wedges with a dot in the center, see Manual, p⁴ 61, 01 1Ξο Manual. p. 38).
+
+ln the capture window. select File --> Ρ10101011005 --> Remote Shooting (flu Manual. 005,
+39-40), 011001( 'Save also on camera's memory card' so that the next shot will be recorded
+on the CF card (necessary 101 setting white balance).
+
+Select Ρ10101011005, 3110 50[ [110 005[1113[1011 01100[01γ (via Ρ110 --> Ρ10101011005 -->
+Destination Folder) to save images to the desired 101001.
+
+111 Ρ110 --> Ρ10101011005 --> 1.1111(00 Software. set Digital Photo Ρ101055101131 (ΒΡΡ) 35 [110
+program to automatically invol<e to display the images in that directory.
+
+Ρ1300 3 51100[ 0103001 beneath the platen glass that contains some image or [0>([, 1001(
+through the camera viewfinder‚ focus manually on the 03001, [11011 50[ [110 10115 [0 manual
+focus ’ΜΗ ΑΙ[01113[1νο1γ, with the lens set to autofocus ἈΡ mode, manually press the
+camera shutter button halfway down — the camera will beep when it finds the focus — then
+switch to ’ΜΡΪ
+
+Via the capture window, shoot an image 01[110 gray (white) card. The image will be
+recorded on the in-camera CF 0310, 3110 will also be written to the 500011100 destination
+directory on the computer, while ΟΡΡ will be brought up on-screen to display the image*
+Τ110 image will 1001( medium gray whether a gray or white 0310 was used, because the
+camera's exposure meter is designed to render any scene to appear 01 average intensity in
+any auto-exposure mode.
+
+Deselect 'Save 3150“ 011 111011101γ 0310 001 above - the CF 0310 will not be needed 101
+subsequent steps.
+
+Per p. 62 01 [110 Manual, push the 'Menu' button on the bacl< 01 [110 03111013, select 'Custom
+White Balance' in the menu‚ and press the 'Set' button in the center 01[110 1031 10[31γ dial.
+and the last image taken, 01 [110 gray (white) 0310, should appear in the LCD monitor on the
+camera back. Select the correct image, then 01055 [110 'Set' button again to implement the
+custom white balance correction.
+
+ln Digital Photo Ρ10, 50100[ [110 gray (white) card image by clicking once on the raw (0³2¹)
+image, then Ιο1[-01101( 111 the image to bring up the image menu, then select 'lnfo' at the
+bottom 01 [110 menu to view the 1Ξ><1Ρ 03[3 101 [110 image, read 011 [110 shutter speed.
+
+Set the camera shooting mode to manual (“Μ’ 011 [110 mode dial).
+
+113 gray card was used. set the shutter speed to the value the camera chose to optimally
+0)(0050 [110 card. 113 white card was used, set the shutter speed initially to is30 second.
+Re-shoot the gray (white) card with the given settings in ’Μ’ mode, still at 400 ΡΡΙ, Double-
+01101( [110 CR2 thurnbnail in ΟΡΡ, 3110, 11 needed, select 'View' -> 'Tool Palette' (ΟΡΡ Manual,
+p. l l [0. 12 001 ΡΟΡ viewer]) to bring up the display window showing image properties.
+The central peal< 01[110 111[01151[γ histogram in the Το01 Ρ310[[0 window (with “RAVW
+display mode selected) should be sharp, and just below the 0.0 fiv 11110, 101 3 gray card, or
+Just above 20 101 3 white 0310. Confirm the white balance by selecting the “ROB'‘ display
+mode at the top 01 [110 Το01 Ρ310[[0 window. Τ110 500313[0 R, G, and Β 0031(5 (individually
+selectable for clarity) should nearly exactly line up.
+
+  
+   
+  
+   
+   
+  
+    
+   
+   
+ 
+ 
+ 
+ 
+    
+     
+   
+ 
+ 
+ 
+    
+    
+

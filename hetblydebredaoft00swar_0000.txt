@@ -1,0 +1,114 @@
+Procedure
+
+      
+
+Ι, Place at least 8“’><ΙΟ”” gray <or white) cards on the cradle, with suitable bacl<ing to firnaly
+
+ 
+
+press the cards against the underside of the platen glass.
+
+2. Set the cameras at the 400 ΡΡΙ position.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+ 
+
+swas
+
+   
+    
+   
+     
+     
+
+ 
+
+iMPORTANT ΝΟΤΕ - an 8“’><ΙΟ” gray card underfills the 5D camera's
+7.3'·><io.9·' field of view (FOV) at 400 ΡΡΙ, so be sure to reset the camera's
+metering mode as described below to only sarnple the center of the FOV.
+The norrnal evaluative rnetering rnode samples nearly the entire FOV. and
+the outer portion could improperly alter the exposure determination.
+Setting the optimal exposure at 400 ΡΡΙ, rather than 500 ΡΡΙ, is
+advantageous for two reasons. First, the effective aperture changes with
+focal length. lmages tal<en with the sarne exposure settings at 300 ΡΡΙ will
+be about 1ίὸ stop brighter than at 400 ΡΡΙ, while images tal<en at 500 ΡΡΙ
+will be about Ιίὸ stop fainter. Βγ setting the exposure for 400 ΡΡΙ, the
+differences will be only ἑ Ιίὸ stop from the optimal exposure, rather than
+as much as ψ ll3 stop, if the optirnurn exposure were set at 500 ΡΡΙ.
+Second, a modest fraction of lenses have been observed to overexpose by
+about 1ίὸ stop at 500 ΡΡΙ, while no lens has ever shown any anomalies at
+400 ΡΡΙ, making that ΡΡΙ setting more reliable for exposure determinations.
+
+ 
+
+ 
+
+ 
+
+. lnstall a Compact Flash card (any capacity or speed) in the first camera to be set.
+Connect cameras via uSss cables to computer with Canon camera utilities installed.
+
+Set the camera shooting mode to aperture priority <Av> (Camera Manual, p. 88) by
+rotating the mode dial on top of the camera body.
+
+. Turn on only one of the cameras (applies for all operations).
+
+. When the ΕΟδ Utility comes up on the monitor, select the ''Camera settingsRemote
+shooting'' option, which will bring up the ΕΟδ Capture Window (ΕΗ Manual p. 37 [4-2]).
+
+. Set the aperture and lSO speed as specified, per the following table. The shutter speeds are
+in parentheses to indicate that those are expected values, to be determined by shooting the
+
+gray card at the specified aperture and lSO settings. ΑΙΙ four settings will produce the same
+exposure level. The tradeoffs are that higher lSO produces a slight, measurable increase in
+noise‚ which is nonetheless likely to be visually imperceptible except perhaps in highly
+contrast-enhanced images. Wider apertures (fs4.o is wider than fl5.0) result in slight
+vignetting (darkening toward the edges of the images). not usually perceptible in a nearly-
+white page. 'l'he current recommendation is option 3. which has a smaller aperture and
+lower ΙδΟ setting than the extrerne values in the table. for less noise and less vignetting.
+
+Option ηο.1 Shutter speed 1Αρεηυτεζ1 ΙδΟ 1
+
+ 
+
+ 
+
+i 1 (is25) ΜΟ 1 400
+
+(imo) ΜΟ 1 500
+(1130) 1 fs4.5 1 640ss
+(is30) 1 fsso ,1 800
+
+Set desired values by clicl<ing on parameter in the capture window to select, using
+
+ 
+
+2
+3
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+bacldforward buttons in window or mouse wheel to change values (Eu Manual p. 38 [4-3J).
+
+ 
+
